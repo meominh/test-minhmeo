@@ -1,3 +1,3 @@
 <?php
     echo "test 2";
-    echo "cotinh test e";
+    echo "khong co tih nua nha";
